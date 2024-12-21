@@ -1,2 +1,2 @@
 # garamonde
-Garamond e
+A small celebration of the Garamond e
